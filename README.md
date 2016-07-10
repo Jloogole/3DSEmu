@@ -1,6 +1,7 @@
 # 3DSEmu
 An Open Source 3DS Emulator
 
+
 MINIMUM SPECS:
 
 -At least a 2ghz processor of any manufacturer
@@ -17,4 +18,6 @@ RECOMMENDED SPECS:
 
 -10gb Disk Space available (Includes Emulator size, size of games, and plugin size)
 
-Initial Creator: Jloogole.
+
+
+Initial Project Creator: Jloogole.
